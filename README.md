@@ -1,1 +1,1 @@
-### 👋 React Developer | Next.js | TypeScript | JavaScript | Serveless 👋
+### 👋 Full Stack Developer | Next.js | TypeScript | Python | Serveless 👋
